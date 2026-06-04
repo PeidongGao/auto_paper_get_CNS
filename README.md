@@ -11,7 +11,7 @@ services such as Crossref. Current SOPs cover **Cell**, **Nature**, and
   <https://github.com/PeidongGao/auto_paper_get_CNS>
 - WillGaoLab brand mirror:
   <https://github.com/WillGaoLab/auto_paper_get_CNS>
-- WillGaoLab knowledge-base:
+- WillGaoLab profile and project index:
   <https://github.com/WillGaoLab/WillGaoLab>
 - WilliamGaoWeb project display:
   <https://github.com/PeidongGao/WilliamGaoWeb>
