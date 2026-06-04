@@ -1,4 +1,5 @@
 *.csv
+PRIVATE_WORKFLOW.md
 __pycache__/
 *.py[cod]
 .DS_Store
