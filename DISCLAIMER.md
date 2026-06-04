@@ -23,9 +23,20 @@ redistribute, or otherwise use publisher content. A public webpage is not
 necessarily permission for automated retrieval. Stop using a script if the
 publisher's current terms, technical controls, or instructions prohibit it.
 
-This project is independently maintained by William Gao and may be featured by
-WillGaoLab and WilliamGaoWeb. It is not affiliated with, endorsed by, or
-sponsored by Cell Press, Elsevier, Nature, Springer Nature, Science, or AAAS.
+## Attribution and Affiliation
+
+This is a WillGaoLab project created and maintained by William (Peidong) Gao.
+
+This project may be referenced, showcased, or documented through the
+independent WillGaoLab research brand and the WilliamGaoWeb website.
+
+This project is not affiliated with, endorsed by, sponsored by, or officially
+associated with Cell Press, Elsevier, Springer Nature, AAAS, Crossref, or any
+other publisher, organization, or service referenced in the documentation.
+
+All trademarks, service marks, journal titles, logos, and publisher names are
+the property of their respective owners and are used solely for identification
+and descriptive purposes.
 
 This statement is informational and is not legal advice. No representation or
 warranty is made that a particular use is lawful or permitted.
