@@ -38,5 +38,6 @@ All trademarks, service marks, journal titles, logos, and publisher names are
 the property of their respective owners and are used solely for identification
 and descriptive purposes.
 
-This statement is informational and is not legal advice. No representation or
-warranty is made that a particular use is lawful or permitted.
+This statement is provided for informational purposes only and does not
+constitute legal advice. No representation or warranty is made that a
+particular use is lawful or permitted.
