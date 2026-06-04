@@ -8,7 +8,7 @@ services such as Crossref. Current SOPs cover **Cell**, **Nature**, and
 ## Repository Strategy
 
 - Canonical code repository:
-  <https://github.com/PeidongGao/journal-harvester-sop>
+  <https://github.com/PeidongGao/auto_paper_get_CNS>
 - WillGaoLab knowledge-base:
   <https://github.com/WillGaoLab/WillGaoLab>
 - WilliamGaoWeb project display:
@@ -40,12 +40,30 @@ before use.
 
 Read [DISCLAIMER.md](DISCLAIMER.md) before using these SOPs.
 
-## Attribution and Affiliation
+The separate WillGaoLab brand mirror is intended to live at
+<https://github.com/WillGaoLab/auto_paper_get_CNS>. The personal repository
+above remains the primary development repository and source of truth.
 
-This is a WillGaoLab project created and maintained by William (Peidong) Gao.
+## Attribution
 
-This project may be referenced, showcased, or documented through the
-independent WillGaoLab research brand and the WilliamGaoWeb website.
+This is a WillGaoLab project created and maintained by
+William (Peidong) Gao.
+
+- Project website: <https://williampeidonggao.com>
+- Brand: <https://github.com/WillGaoLab>
+- Personal GitHub: <https://github.com/PeidongGao>
+
+```text
+William (Peidong) Gao
+        |
+    WillGaoLab
+        |
+Open-source Projects
+        |
+   WilliamGaoWeb
+```
+
+## Affiliation Disclaimer
 
 This project is not affiliated with, endorsed by, sponsored by, or officially
 associated with Cell Press, Elsevier, Springer Nature, AAAS, Crossref, or any

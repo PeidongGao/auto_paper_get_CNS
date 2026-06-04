@@ -23,12 +23,19 @@ redistribute, or otherwise use publisher content. A public webpage is not
 necessarily permission for automated retrieval. Stop using a script if the
 publisher's current terms, technical controls, or instructions prohibit it.
 
-## Attribution and Affiliation
+## Attribution
 
-This is a WillGaoLab project created and maintained by William (Peidong) Gao.
+This is a WillGaoLab project created and maintained by
+William (Peidong) Gao.
 
-This project may be referenced, showcased, or documented through the
-independent WillGaoLab research brand and the WilliamGaoWeb website.
+- Project website: <https://williampeidonggao.com>
+- Brand: <https://github.com/WillGaoLab>
+- Personal GitHub: <https://github.com/PeidongGao>
+
+William (Peidong) Gao maintains WillGaoLab, its open-source projects, and their
+presentation through WilliamGaoWeb.
+
+## Affiliation Disclaimer
 
 This project is not affiliated with, endorsed by, sponsored by, or officially
 associated with Cell Press, Elsevier, Springer Nature, AAAS, Crossref, or any
