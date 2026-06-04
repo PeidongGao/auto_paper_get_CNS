@@ -9,6 +9,8 @@ services such as Crossref. Current SOPs cover **Cell**, **Nature**, and
 
 - Canonical code repository:
   <https://github.com/PeidongGao/auto_paper_get_CNS>
+- WillGaoLab brand mirror:
+  <https://github.com/WillGaoLab/auto_paper_get_CNS>
 - WillGaoLab knowledge-base:
   <https://github.com/WillGaoLab/WillGaoLab>
 - WilliamGaoWeb project display:
@@ -40,7 +42,7 @@ before use.
 
 Read [DISCLAIMER.md](DISCLAIMER.md) before using these SOPs.
 
-The separate WillGaoLab brand mirror is intended to live at
+The separate WillGaoLab brand mirror is published at
 <https://github.com/WillGaoLab/auto_paper_get_CNS>. The personal repository
 above remains the primary development repository and source of truth.
 
